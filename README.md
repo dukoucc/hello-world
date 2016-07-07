@@ -1,2 +1,4 @@
 # hello-world
-just another repository 
+
+Hi, Humans,
+A students form Tsinghua Univesity, Beijing, China.
